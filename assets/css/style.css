@@ -1,0 +1,32 @@
+        .container {
+            width: 83%;
+            margin: 0 auto;
+        }
+
+        header::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .logo {
+            float: left;
+            padding: 10px 0;
+        }
+
+        nav {
+            float: right;
+        }
+
+        nav ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        li {
+            margin-left: 70px;
+            padding-top: 10px;
+            display: inline-block;
+        }
+    
