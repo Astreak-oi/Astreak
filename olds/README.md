@@ -1,9 +1,9 @@
-# astrolus
+# Astreak
 
 A page template built with astro and tailwindcss using tailus blocks.
 
-![Tailus astro based theme](./public/astrolus-light.png)
-![Tailus astro based dark theme](./public/astrolus-dark.png)
+![Tailus astro based theme](./public/Astreak-light.png)
+![Tailus astro based dark theme](./public/Astreak-dark.png)
 
 ## 🚀 Project Structure
 

@@ -1,5 +1,5 @@
 {
-  "name": "astrolus",
+  "name": "astreak",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,8 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/netlify": "^2.1.3",
-    "astro": "^2.0.18"
+    "astro": "^1.1.5"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^1.0.0"
