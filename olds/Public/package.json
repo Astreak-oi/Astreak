@@ -1,0 +1,12 @@
+{
+  "name": "www-Astreak-com.firebaseapp.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/index.html",
+  "dependencies": {
+    "firebase-tools": "^11.14.4"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "UNLICENSED"
+}
